@@ -1,2 +1,2 @@
 # jquery_slider
-simple slider on jq
+[Demo](https://yarkirs.github.io/jquery_slider/)
